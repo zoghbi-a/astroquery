@@ -8,22 +8,14 @@ New Tools and Services
 Service fixes and enhancements
 ------------------------------
 
-
-Infrastructure, Utility and Other Changes and Additions
--------------------------------------------------------
-
-
-0.4.9 (TBD)
-===========
-
-Service fixes and enhancements
-------------------------------
-
 heasarc
 ^^^^^^^
 
 - Fix Heasarc.download_data for Sciserver. [#3183]
 
+
+Infrastructure, Utility and Other Changes and Additions
+-------------------------------------------------------
 
 
 0.4.8 (2025-01-16)
